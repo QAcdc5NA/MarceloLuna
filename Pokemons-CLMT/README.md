@@ -1,4 +1,4 @@
-# PokeSystem 
+# Pokemons-CLMT 
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![API](https://img.shields.io/badge/API-PokeAPI-red.svg)](https://pokeapi.co/)
